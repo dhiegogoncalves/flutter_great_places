@@ -54,6 +54,9 @@ class GreatPlaces with ChangeNotifier {
       ),
     );
 
+    print(position.latitude);
+    print(position.longitude);
+
     _items.add(newPlace);
     DbUtil.insert('places', {
       'id': newPlace.id,
