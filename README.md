@@ -1,4 +1,4 @@
-# Great Places Flutter
+# Flutter Great Places
 
 > Projeto desenvolvido com Flutter que demonstra como trabalhar com recursos nativos (Câmera, Mapas, Database).
 
